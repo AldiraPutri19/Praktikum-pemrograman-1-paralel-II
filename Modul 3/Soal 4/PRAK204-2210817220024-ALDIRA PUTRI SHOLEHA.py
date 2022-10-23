@@ -1,0 +1,9 @@
+phi=3.14285714
+jari=float(input(""))
+tinggi=float(input(""))
+volume = phi*jari*jari*tinggi
+print("Volume = %.2f cm"%volume)
+luas = 2*phi*jari*(jari+tinggi)
+print("Luas = %.2f cm^2"%luas)
+keliling = 2*phi*jari
+print("Keliling = %.2f cm"%keliling)
